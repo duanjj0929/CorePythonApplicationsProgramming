@@ -117,3 +117,6 @@ dmypy.json
 
 # vscode
 .vscode/
+
+# chapter14 csv file
+bookdata.csv
